@@ -1,4 +1,1 @@
-<? php  
- alert("Hello from JS");
-
-?>
+alert("Hello from JS");
